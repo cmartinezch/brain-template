@@ -1,0 +1,10 @@
+---
+description: Project Brain Memory Protocol
+globs: *
+alwaysApply: true
+---
+
+# Project Brain Protocol
+- Consult `brain/MAP.md` and `brain/STATUS.md` on session startup.
+- Follow execution queues in `brain/HANDOFF.md`.
+- Append technical design choices to `brain/DECISIONS.md`.
